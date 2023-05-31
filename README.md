@@ -1,5 +1,5 @@
 ### Hi there 
-- 🗼I'm currently learning Computer Science in Waseda University in Tokyo.
+- 🗼I'm currently learning Computer Science at Waseda University in Tokyo.
 - 😌I'm also interested in Data Science and ML.
 
 <!--
