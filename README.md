@@ -1,6 +1,6 @@
 ### Hi there 
-- 🗼I'm currently learning Computer Science at Waseda University in Tokyo.
-- 😌I'm also interested in Data Science and ML.
+- 🗼I'm majoring in Computer Science at Waseda University in Tokyo.
+- 😌I'm also interested in Data Science and Machine Learning.
 
 <!--
 **monchy1017/monchy1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
