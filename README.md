@@ -1,4 +1,6 @@
-### Hi there 🥰
+### Hi there 
+- 🗼I'm currently learning Computer Science in Waseda University in Tokyo.
+- 😌I'm also interested in Data Science and ML.
 
 <!--
 **monchy1017/monchy1017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
