@@ -7,8 +7,9 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
-- 🗼 I'm a University student in Tokyo, Japan
-- 🌱 I’m currently learning ML
+- 🗼 University student in Tokyo, Japan
+- 🌱 currently learning ML
+- 💻 Blog: https://zenn.dev/monchy1017 (To be updated!)
 <br>
 
 
