@@ -8,7 +8,6 @@
 
 - 🗼 University student in Tokyo, Japan
 - 🌱 currently learning ML
-- 💻 Blog: https://zenn.dev/monchy1017 (To be updated!)
 <br>
 
 
